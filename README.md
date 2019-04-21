@@ -35,7 +35,7 @@ You must have npm and Gulp installed globally on your machine in order to use th
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/deelino/HiTech-Bootstrap/issues) here on GitHub or leave a comment on the [template overview page at HiTech Bootstrap]().
+Have a bug or an issue with this template? [Open a new issue](https://github.com/deelino/HiTech-Bootstrap/issues) here on GitHub or leave a comment on the [template overview page at HiTech Bootstrap](https://deelino.github.io/HiTECH-Bootstrap/).
 
 ## About
 

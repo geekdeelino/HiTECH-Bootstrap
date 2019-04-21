@@ -1,4 +1,4 @@
-# [HiTECH Boostrap Template](https://rivasult.com)
+ Boostrap Template](https://rivasult.com)
 
 [HiTECH](http://rivasult.com) is a digital agency template for [Bootstrap](http://getbootstrap.com/) created by [Ayorinde Ayodeji](http://startbootstrap.com/). This template features predefined file paths for Bootstrap and jQuery, so you can quickly create Bootstrap websites.
 
@@ -18,7 +18,7 @@
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on HiTECH](https://rivasult.com)
 * Install via npm: `npm i hitech`
-* Clone the repo: `git clone https://github.com/Deelino/HiTech.git`
+* Clone the repo: `git clone https://github.com/Deelino/HiTech-bootstrap.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/Deelino/Hitech-bootstrap)
 
 ## Usage

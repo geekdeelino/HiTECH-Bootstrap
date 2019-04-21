@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![HiTECH Preview](https://startbootstrap.com/assets/img/templates/bare.jpg)](https://rivasult.com)
+[![HiTECH Preview](https://github.com/deelino/HiTECH-Bootstrap/blob/master/hitech.JPG)](https://rivasult.com)
 
 **[No View Live Preview](https://rivasult.com)**
 

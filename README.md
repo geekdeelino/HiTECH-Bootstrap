@@ -6,7 +6,7 @@
 
 [![HiTECH Preview](https://github.com/deelino/HiTECH-Bootstrap/blob/master/hitech.JPG)](https://rivasult.com)
 
-**[No View Live Preview](https://rivasult.com)**
+**[View Live Preview](https://deelino.github.io/HiTECH-Bootstrap/)**
 
 ## Status
 
